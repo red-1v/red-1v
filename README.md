@@ -1,25 +1,66 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=E2725B&height=200&section=header&text=Red%201v&fontColor=2E1A1A&fontSize=40)
 
-## ⚙️ About Me
-- 🎓 11th grade student
-- 💻 Interested in game systems & programming
-- 🧠 Building ideas before perfection
 
----
+<!-- header -->
+<div align="center">
+  
+```
+┌──────────────────────────────────────────────┐
+│  red-1v // system log                        │
+├──────────────────────────────────────────────┤
+│  status     : 🟢 active                      │
+│  focus      : game systems / backend logic   │
+│  mindset    : build first, refine later      │
+│  stack      : C# • Lua • SQL • Node.js       │
+└──────────────────────────────────────────────┘
+```
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=red-1v&show_icons=true&bg_color=2E1A1A&title_color=E2725B&icon_color=E2725B&text_color=F5D0C5&border_color=8B3A3A)
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=red-1v&layout=compact&bg_color=2E1A1A&title_color=E2725B&text_color=F5D0C5&border_color=8B3A3A)
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
+## ▶️ stats
 
-## 💬 Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/764068358563299358?bg=2E1A1A&borderRadius=12px)](https://discord.com/users/764068358563299358)
+<div align="center">
+  
+![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=red-1v&show_icons=true&bg_color=2E1A1A&title_color=E2725B&icon_color=E2725B&text_color=F5D0C5&hide_border=true)
 
----
+![langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=red-1v&layout=compact&bg_color=2E1A1A&title_color=E2725B&text_color=F5D0C5&hide_border=true)
 
-## 🧠 Current Focus
-- 🔫 EBWS (game system project)
-- ⚙️ Server-authoritative mechanics
-- 🎮 Combat feel & design
+</div>
+
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## ▶️ current.log
+
+```
+[✓] prototyping EBWS core loop
+[►] experimenting with combat systems
+[►] learning server authority patterns
+[ ] documenting netcode architecture
+```
+
+## ▶️ contact
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/discord-red--1v-E2725B?style=for-the-badge&logo=discord&logoColor=white&labelColor=2E1A1A)](https://discord.com/users/764068358563299358)
+[![GitHub](https://img.shields.io/badge/github-red--1v-E2725B?style=for-the-badge&logo=github&logoColor=white&labelColor=2E1A1A)](https://github.com/red-1v)
+
+</div>
+
+<!-- footer -->
+<div align="center">
+  
+```text
+> system ready. awaiting input...
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<small>⚡ powered by coffee & iterative builds</small>
+
+</div>
+```
+
