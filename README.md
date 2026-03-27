@@ -5,9 +5,9 @@
   
 ```
 ┌──────────────────────────────────────────────┐
-│  red-1v // system log                        │
+│  ▲ red-1v // system log             ―  ⛶  X │
 ├──────────────────────────────────────────────┤
-│  status     : 🟢 active                      │
+│  status     : active                         │
 │  focus      : game systems / backend logic   │
 │  mindset    : build first, refine later      │
 │  stack      : C# • Lua • SQL • Node.js       │
@@ -19,7 +19,18 @@
 <!-- divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## ▶️ stats
+## 00 ▸ ABOUT ME
+
+<div align="center">
+
+<h4>𝘐 𝘣𝘶𝘪𝘭𝘥 𝘵𝘩𝘪𝘯𝘨𝘴 𝘣𝘺 𝘷𝘪𝘣𝘪𝘯𝘨 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘱𝘳𝘰𝘮𝘱𝘵𝘴, 𝘴𝘩𝘪𝘱 𝘙𝘰𝘣𝘭𝘰𝘹 𝘨𝘢𝘮𝘦𝘴, 𝘢𝘯𝘥 𝘭𝘦𝘢𝘳𝘯 𝘦𝘷𝘦𝘳𝘺𝘵𝘩𝘪𝘯𝘨 𝘪𝘯 𝘱𝘶𝘣𝘭𝘪𝘤 — 𝘰𝘯𝘦 𝘤𝘰𝘮𝘮𝘪𝘵 𝘢𝘵 𝘢 𝘵𝘪𝘮𝘦.</h4>
+
+</div>
+
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 01 ▸ STATS
 
 <div align="center">
   
@@ -32,8 +43,7 @@
 <!-- divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## ▶️ current.log
-
+## 02 ▸ LOGS
 ```
 [✓] prototyping EBWS core loop
 [►] experimenting with combat systems
@@ -41,7 +51,7 @@
 [ ] documenting netcode architecture
 ```
 
-## ▶️ contact
+## 03 ▸ CONTACT
 
 <div align="center">
 
@@ -53,7 +63,7 @@
 <!-- footer -->
 <div align="center">
   
-```text
+```
 > system ready. awaiting input...
 ```
 
@@ -62,5 +72,5 @@
 <small>⚡ powered by coffee & iterative builds</small>
 
 </div>
-```
+
 
