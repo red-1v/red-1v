@@ -1,16 +1,25 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=E2725B&height=200&section=header&text=Red%201v&fontColor=2E1A1A&fontSize=40)
 
-<!--
-**red-1v/red-1v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ About Me
+- 🎓 11th grade student
+- 💻 Interested in game systems & programming
+- 🧠 Building ideas before perfection
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=red-1v&show_icons=true&bg_color=2E1A1A&title_color=E2725B&icon_color=E2725B&text_color=F5D0C5&border_color=8B3A3A)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=red-1v&layout=compact&bg_color=2E1A1A&title_color=E2725B&text_color=F5D0C5&border_color=8B3A3A)
+
+---
+
+## 💬 Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/764068358563299358?bg=2E1A1A&borderRadius=12px)](https://discord.com/users/764068358563299358)
+
+---
+
+## 🧠 Current Focus
+- 🔫 EBWS (game system project)
+- ⚙️ Server-authoritative mechanics
+- 🎮 Combat feel & design
